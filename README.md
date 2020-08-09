@@ -1,2 +1,2 @@
 # ChatBot-para-WhatsAPP
-ChatBot feito com IA, Machine Learning, NPL e importando APIs
+ChatBot mande with Machine Learning and NPL
